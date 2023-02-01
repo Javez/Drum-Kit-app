@@ -1,7 +1,7 @@
 # Drum Kit example webpage using JS DOM
 Simple Drum Kit example published on public Git Page
 
-[Website link](https://javez.github.io/My_Site_CSS/)
+[Website link](https://javez.github.io/Drum_Kit_DOM/)
 
 ```
 Used:
